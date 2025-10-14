@@ -55,7 +55,7 @@ package.json # Dependências do projeto
 
 ---
 
-####🧩 Funcionalidades
+#### 🧩 Funcionalidades
 
 Cadastrar novas vagas de emprego
 
@@ -67,14 +67,14 @@ Visualizar detalhes de uma vaga específica
 
 ---
 
-#####🗃️ Banco de dados
+##### 🗃️ Banco de dados
 
 O projeto utiliza SQLite, salvo localmente no arquivo app.db.
 As interações com o banco são feitas através do Sequelize, o que permite fácil adaptação para outros bancos (MySQL, PostgreSQL, etc).
 
 ---
 
-######💡 Aprendizados
+###### 💡 Aprendizados
 
 Durante o desenvolvimento, foram praticados conceitos como:
 
